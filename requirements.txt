@@ -1,0 +1,9 @@
+diff --git a//dev/null b/good-deeds-bot/requirements.txt
+index 0000000000000000000000000000000000000000..4bc70812cc481fa47a0a989d5c2da229fda0c3a1 100644
+--- a//dev/null
++++ b/good-deeds-bot/requirements.txt
+@@ -0,0 +1,4 @@
++aiogram[fast]==3.5
++apscheduler==3.10
++python-dotenv~=1.0
++openai~=1.30
